@@ -20,7 +20,12 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.uberclone.app",
       "config": {
-        "googleMapsApiKey": "AIzaSyCGbNKoxLoWwT8GQOCJFKU9WLNwZNprIso"
+        "googleMapsApiKey": "AIzaSyCKyv1OiQHlqdnlJHIrv4eG9SYy6GrJ8oI"
+      },
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location"
+        ]
       }
     },
     "android": {
@@ -31,7 +36,7 @@
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyCGbNKoxLoWwT8GQOCJFKU9WLNwZNprIso"
+          "apiKey": "AIzaSyCKyv1OiQHlqdnlJHIrv4eG9SYy6GrJ8oI"
         }
       }
     },
